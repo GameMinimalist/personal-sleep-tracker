@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/personal-sleep-tracker/static/css/main.f855e6bc.css",
+    "main.js": "/personal-sleep-tracker/static/js/main.01547de2.js",
+    "static/js/453.edc0a303.chunk.js": "/personal-sleep-tracker/static/js/453.edc0a303.chunk.js",
+    "static/media/logo.svg": "/personal-sleep-tracker/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/personal-sleep-tracker/index.html",
+    "main.f855e6bc.css.map": "/personal-sleep-tracker/static/css/main.f855e6bc.css.map",
+    "main.01547de2.js.map": "/personal-sleep-tracker/static/js/main.01547de2.js.map",
+    "453.edc0a303.chunk.js.map": "/personal-sleep-tracker/static/js/453.edc0a303.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.01547de2.js"
+  ]
+}
