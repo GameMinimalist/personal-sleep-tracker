@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/personal-sleep-tracker/static/css/main.2eeb9e99.css",
-    "main.js": "/personal-sleep-tracker/static/js/main.4651bad9.js",
+    "main.css": "/personal-sleep-tracker/static/css/main.498b9e9f.css",
+    "main.js": "/personal-sleep-tracker/static/js/main.abf06999.js",
     "index.html": "/personal-sleep-tracker/index.html",
-    "main.2eeb9e99.css.map": "/personal-sleep-tracker/static/css/main.2eeb9e99.css.map",
-    "main.4651bad9.js.map": "/personal-sleep-tracker/static/js/main.4651bad9.js.map"
+    "main.498b9e9f.css.map": "/personal-sleep-tracker/static/css/main.498b9e9f.css.map",
+    "main.abf06999.js.map": "/personal-sleep-tracker/static/js/main.abf06999.js.map"
   },
   "entrypoints": [
-    "static/css/main.2eeb9e99.css",
-    "static/js/main.4651bad9.js"
+    "static/css/main.498b9e9f.css",
+    "static/js/main.abf06999.js"
   ]
 }
